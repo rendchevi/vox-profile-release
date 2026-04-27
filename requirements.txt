@@ -47,4 +47,3 @@ urllib3==2.2.3
 
 librosa
 hf_transfer
-fastapi[standard]

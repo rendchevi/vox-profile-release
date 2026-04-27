@@ -1,0 +1,4 @@
+librosa
+loralib
+transformers==4.46.3
+speechbrain
