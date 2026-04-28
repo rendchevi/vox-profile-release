@@ -21,7 +21,7 @@ git clone git@github.com:tiantiaf0627/vox-profile-release.git
 
 ### Installation
 ```bash
-conda create -n vox_profile python=3.8
+conda create -n vox
 cd vox-profile-release
 pip install -e .
 ```

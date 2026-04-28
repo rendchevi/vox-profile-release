@@ -37,7 +37,8 @@ class PredictResponse(BaseModel):
 
 
 def create_app() -> FastAPI:
-    device = os.getenv("MODEL_DEVICE", "cpu")
+    # device = os.getenv("MODEL_DEVICE", "cpu")
+    device = "cuda"
 
     app = FastAPI(title="Demographics and Voice Quality API")
 
