@@ -1,5 +1,9 @@
-librosa
-loralib
-transformers==4.46.3
-speechbrain
-fastapi[standard]
+git config user.name rendchevi
+git config user.email rendchevi
+
+pip install "librosa"
+pip install "loralib"
+pip install "transformers==4.46.3"
+pip install "speechbrain"
+pip install "fastapi[standard]"
+pip install "hf_transfer"
