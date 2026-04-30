@@ -1,3 +1,5 @@
+# uvicorn serve_fastapi:app --host 0.0.0.0 --port 8122
+
 import os
 from typing import Literal, List
 

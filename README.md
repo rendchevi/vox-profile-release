@@ -1,5 +1,10 @@
 ## Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker and Speech Traits
 
+### Note
+Just need to install conda environment with python=3.11, then run runpod.txt. 
+
+
+
 <p align="center">
   📄 <a href="https://arxiv.org/pdf/2505.14648"><strong>[Preprint Paper]</strong></a> &nbsp;|&nbsp;
   🤗 <a href="https://huggingface.co/collections/tiantiaf/vox-profile-6849966a82005eea95dc6274"><strong>[HuggingFace Models]</strong></a> &nbsp;
